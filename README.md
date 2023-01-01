@@ -6,7 +6,9 @@
 
 
 
-client_data.csv [source](https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9/BqF6gmrmLunCkdqKM/1639044685365/client_data.csv)
+client_data.csv 
+
+[data source](https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9/BqF6gmrmLunCkdqKM/1639044685365/client_data.csv)
 
   - id = client company identifier
   -	activity_new = category of the company’s activity
@@ -37,6 +39,8 @@ client_data.csv [source](https://cdn.theforage.com/vinternships/companyassets/SK
   -	churn = has the client churned over the next 3 months
 
 price_data.csv
+
+[data source](https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9/BqF6gmrmLunCkdqKM/1639044717433/price_data.csv)
 
   -	id = client company identifier
   -	price_date = reference date
