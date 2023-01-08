@@ -20,7 +20,7 @@ You are in charge of building the model and of suggesting which commercial actio
 
 * Finally, the client would like to have a view on whether the 20% discount offer to customers predicted is a good measure. Given that it is a steep discount – bringing their price lower than all competitors – we can assume for now that everyone who is offered the discount will accept it. According to regulations, PowerCo cannot raise the price of someone within a year if they accept the discount. Therefore, offering it excessively is going to hit revenues hard.
 
-
+[Solution: Feature_Engineering_and_Model_Development.ipynb](https://github.com/AnyueWang/BCG_Project/blob/main/Feature_Engineering_and_Model_Development.ipynb)
 
 
 
