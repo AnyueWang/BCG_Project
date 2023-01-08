@@ -1,4 +1,4 @@
-# BCG_Project
+# BCG Virtual Intership Project
 
 ## PowerCo Case Task Description
 
