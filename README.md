@@ -1,5 +1,13 @@
 # BCG_Project
 
+## PowerCo Case Task Description
+
+### The task
+
+We have scheduled a meeting in one week's time with the head of the SME division in which you will present our findings of the churn issue and your recommendations on how to address it.
+
+You are in charge of building the model and of suggesting which commercial actions should be taken as a result of the model's outcome.
+![image](https://user-images.githubusercontent.com/52653907/211189811-b7e32d50-0f54-4883-b5d4-1a49c36bce69.png)
 
 
 
